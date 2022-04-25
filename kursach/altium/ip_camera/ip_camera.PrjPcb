@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\..\..\..\..\Downloads\Telegram Desktop\custom-case.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WAIRJKRU
+
+[Document2]
 DocumentPath=..\..\..\..\..\..\..\Downloads\Telegram Desktop\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DOJGJBDS
 
-[Document2]
+[Document3]
 DocumentPath=ARM-JTAG-SWD\SnapEDApcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document3]
+[Document4]
 DocumentPath=..\..\..\..\..\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document4]
+[Document5]
 DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEEDUMIQ
 
-[Document5]
+[Document6]
 DocumentPath=..\..\..\..\..\..\..\Downloads\Telegram Desktop\–≈«»—“Œ–€.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDREQOJK
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\..\..\..\..\Downloads\Telegram Desktop\ ¿“”ÿ ».SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKDAXFFM
 
-[Document7]
+[Document8]
 DocumentPath=..\..\..\..\..\..\..\Downloads\Telegram Desktop\ ŒÕƒ≈Õ—¿“Œ–€.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNTZWPRZ
 
-[Document8]
+[Document9]
 DocumentPath=..\..\..\..\..\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document9]
+[Document10]
 DocumentPath=ARM-JTAG-SWD\SnapEDAsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document10]
+[Document11]
 DocumentPath=..\..\..\..\..\..\..\Downloads\Telegram Desktop\ ”–—¿◊.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,6 +223,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHCOHXLL
+
+[Document12]
+DocumentPath=..\..\..\..\..\..\..\Downloads\Telegram Desktop\oscilator.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TDRIZRGL
 
 [GeneratedDocument1]
 DocumentPath=..\..\..\..\..\AltiumLL\SamacSys.cmp
@@ -1185,10 +1219,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0= ”–—¿◊.SchLib
+ComponentDesignItemID0=Crystal_2520
+ComponentSymbolReference0=Crystal_2520
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1202,6 +1242,39 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=Frequency
+ParameterUpdate3=1
+ParameterName4=HelpURL
+ParameterUpdate4=1
+ParameterName5=Library Reference
+ParameterUpdate5=1
+ParameterName6=LoadCapacitance
+ParameterUpdate6=1
+ParameterName7=Manufacturer
+ParameterUpdate7=1
+ParameterName8=Package
+ParameterUpdate8=1
+ParameterName9=PartNumber
+ParameterUpdate9=1
+ParameterName10=Temperature
+ParameterUpdate10=1
+ParameterName11=Tolerance
+ParameterUpdate11=1
+ParameterName12=TypeOscilator
+ParameterUpdate12=1
+ParameterName13=ValueManufacturerPartNumber
+ParameterUpdate13=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=OSC: 2520
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
