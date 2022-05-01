@@ -1,0 +1,570 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>
+Integrated Library (Components) Report
+</title>
+</head>
+<body bgcolor="#FFFFFF">
+<font face="Arial" size="2">
+<h1>
+Integrated Library (Components) Report
+</h1>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Name
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C:\Users\User\OneDrive\Documents\univer\MVS\kursach\altium\ip_camera\RJ45-8N-B\RJ45-8N-B.IntLib
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Date/Time
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1 Ã‡È 2022 „. 5:20:34
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Size
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+22016
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Components
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Component List
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+RJ45-8N-B
+</font>
+</td>
+</tr>
+</table>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="ProEF74.wmf" width="123" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+RJ45-8N-B
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Jack Modular Connector 8p8c _RJ45, Ethernet_ 90A∞ Angle _Right_ Unshielded
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+J
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+9
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+10
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+MP
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+RJ45-8N-B
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Price
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+None
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Package
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+None
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Value
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+*
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+TE_purchase_URL
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://www.te.com/usa-en/product-RJ45-8N-B.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Availability
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Unavailable
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+MF
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+TE Connectivity
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+SnapEDA_Link
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+https://www.snapeda.com/parts/RJ45-8N-B/TE%20Connectivity%20Corcom%20Filters/view-part/2782287/?ref=snap
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+*
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+True
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="ProEFD3.wmf" width="256" height="234">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+TE_RJ45-8N-B
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+769.685mil x 731.89mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+12
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+36
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+</font>
+</body>
+</html>
