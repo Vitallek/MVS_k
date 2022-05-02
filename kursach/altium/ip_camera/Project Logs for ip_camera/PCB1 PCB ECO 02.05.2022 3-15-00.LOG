@@ -1,0 +1,67 @@
+Added Component: Designator=XP?(SWD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3V Pin=XP?-1
+Added Pin To Net: NetName=PA14 Pin=XP?-2
+Added Pin To Net: NetName=GND Pin=XP?-3
+Added Pin To Net: NetName=PA13 Pin=XP?-4
+Added Pin To Net: NetName=NRST Pin=XP?-5
+Added Member To Class: ClassName=Sheet1 Member=Component 19? 
+Added Member To Class: ClassName=Sheet1 Member=Component C1 
+Added Member To Class: ClassName=Sheet1 Member=Component C2 
+Added Member To Class: ClassName=Sheet1 Member=Component C3 
+Added Member To Class: ClassName=Sheet1 Member=Component C4 
+Added Member To Class: ClassName=Sheet1 Member=Component C5 
+Added Member To Class: ClassName=Sheet1 Member=Component C6 
+Added Member To Class: ClassName=Sheet1 Member=Component C7 
+Added Member To Class: ClassName=Sheet1 Member=Component C8 
+Added Member To Class: ClassName=Sheet1 Member=Component C9 
+Added Member To Class: ClassName=Sheet1 Member=Component C10 
+Added Member To Class: ClassName=Sheet1 Member=Component C11 
+Added Member To Class: ClassName=Sheet1 Member=Component C12 
+Added Member To Class: ClassName=Sheet1 Member=Component C13 
+Added Member To Class: ClassName=Sheet1 Member=Component C14 
+Added Member To Class: ClassName=Sheet1 Member=Component C15 
+Added Member To Class: ClassName=Sheet1 Member=Component C16 
+Added Member To Class: ClassName=Sheet1 Member=Component C17 
+Added Member To Class: ClassName=Sheet1 Member=Component C18 
+Added Member To Class: ClassName=Sheet1 Member=Component C19 
+Added Member To Class: ClassName=Sheet1 Member=Component C20 
+Added Member To Class: ClassName=Sheet1 Member=Component C21 
+Added Member To Class: ClassName=Sheet1 Member=Component C22 
+Added Member To Class: ClassName=Sheet1 Member=Component C23 
+Added Member To Class: ClassName=Sheet1 Member=Component C24 
+Added Member To Class: ClassName=Sheet1 Member=Component C25 
+Added Member To Class: ClassName=Sheet1 Member=Component C26 
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 OV9655(2640)
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 BQ24295RGER
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 LAN8720ACP
+Added Member To Class: ClassName=Sheet1 Member=Component IC? STM32F407VGT6
+Added Member To Class: ClassName=Sheet1 Member=Component J1 0473461001
+Added Member To Class: ClassName=Sheet1 Member=Component J? SS-6488-FLS
+Added Member To Class: ClassName=Sheet1 Member=Component L1 Fixed inductor, , , 0603, 50mA, -55...+125°C
+Added Member To Class: ClassName=Sheet1 Member=Component PS? AP2202K-ADJTRG1
+Added Member To Class: ClassName=Sheet1 Member=Component R1 
+Added Member To Class: ClassName=Sheet1 Member=Component R2 
+Added Member To Class: ClassName=Sheet1 Member=Component R3 
+Added Member To Class: ClassName=Sheet1 Member=Component R4 
+Added Member To Class: ClassName=Sheet1 Member=Component R5 
+Added Member To Class: ClassName=Sheet1 Member=Component R8 
+Added Member To Class: ClassName=Sheet1 Member=Component R9 
+Added Member To Class: ClassName=Sheet1 Member=Component R10 
+Added Member To Class: ClassName=Sheet1 Member=Component R11 
+Added Member To Class: ClassName=Sheet1 Member=Component R12 
+Added Member To Class: ClassName=Sheet1 Member=Component R13 
+Added Member To Class: ClassName=Sheet1 Member=Component R14 
+Added Member To Class: ClassName=Sheet1 Member=Component R15 
+Added Member To Class: ClassName=Sheet1 Member=Component R16 
+Added Member To Class: ClassName=Sheet1 Member=Component R17 
+Added Member To Class: ClassName=Sheet1 Member=Component R18 
+Added Member To Class: ClassName=Sheet1 Member=Component R20 
+Added Member To Class: ClassName=Sheet1 Member=Component RK? 
+Added Member To Class: ClassName=Sheet1 Member=Component VD1 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=Sheet1 Member=Component XP? SWD
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 403C11A24M00000
+Added Member To Class: ClassName=Sheet1 Member=Component Y2 405C11A25M00000
+Added Member To Class: ClassName=Sheet1 Member=Component Z2 Crystal, , 6pF, ±50ppm, case 2016, -30...+85°C
+Added Member To Class: ClassName=Sheet1 Member=Component Z? Crystal, , 6pF, ±50ppm, case 2016, -30...+85°C
+Added Room: Name=Sheet1
