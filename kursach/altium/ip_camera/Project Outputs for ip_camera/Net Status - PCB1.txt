@@ -1,0 +1,81 @@
+Net Status Report
+Filename     : C:\Users\User\OneDrive\Documents\univer\MVS\kursach\altium\ip_camera\PCB1.PcbDoc
+Date         : 03.05.2022
+Time         : 16:43:44
+Time Elapsed : 00:00:01
+
+Nets, Layer, Length
+    +2.5V, Signal Layers Only, 4.7179mm
+    +3.3V, Signal Layers Only, 128.6093mm
+    GND, Signal Layers Only, 341.488mm
+    NRST, Signal Layers Only, 26.3209mm
+    NetC10_2, Signal Layers Only, 7.1929mm
+    NetC11_1, Signal Layers Only, 3.7249mm
+    NetC12_1, Signal Layers Only, 4.2199mm
+    NetC15_2, Signal Layers Only, 22.5391mm
+    NetC17_1, Signal Layers Only, 11.9553mm
+    NetC18_1, Signal Layers Only, 19.9025mm
+    NetC19_2, Signal Layers Only, 17.1476mm
+    NetC20_1, Signal Layers Only, 4.6395mm
+    NetC21_2, Signal Layers Only, 11.0717mm
+    NetC22_1, Signal Layers Only, 6.5478mm
+    NetC23_1, Signal Layers Only, 48.1736mm
+    NetC24_1, Signal Layers Only, 7.1346mm
+    NetC25_1, Signal Layers Only, 12.8919mm
+    NetC25_2, Signal Layers Only, 4.5667mm
+    NetC4_2, Signal Layers Only, 4.38mm
+    NetC5_2, Signal Layers Only, 6.5064mm
+    NetC6_2, Signal Layers Only, 40.5338mm
+    NetC7_2, Signal Layers Only, 13.3697mm
+    NetC9_1, Signal Layers Only, 3.5087mm
+    NetDA_3, Signal Layers Only, 2.295mm
+    NetDD1_37, Signal Layers Only, 24.1216mm
+    NetDD1_99, Signal Layers Only, 5.2755mm
+    NetDD2_2, Signal Layers Only, 4.6225mm
+    NetDD2_20, Signal Layers Only, 16.0714mm
+    NetDD2_21, Signal Layers Only, 23.9498mm
+    NetDD2_22, Signal Layers Only, 12.7704mm
+    NetDD2_23, Signal Layers Only, 31.3903mm
+    NetDD2_24, Signal Layers Only, 3.776mm
+    NetDD2_3, Signal Layers Only, 9.6918mm
+    NetDD3_10, Signal Layers Only, 15.6697mm
+    NetDD3_2, Signal Layers Only, 6.3185mm
+    NetDD3_3, Signal Layers Only, 15.9006mm
+    NetDD3_4, Signal Layers Only, 5.7306mm
+    NetG1_3, Signal Layers Only, 33.8387mm
+    NetIC1_B6, Signal Layers Only, 2.0552mm
+    NetR10_2, Signal Layers Only, 6.0741mm
+    NetR11_2, Signal Layers Only, 7.7115mm
+    NetR14_1, Signal Layers Only, 8.7267mm
+    NetR19_2, Signal Layers Only, 3.9158mm
+    NetR8_2, Signal Layers Only, 3.4886mm
+    NetR9_2, Signal Layers Only, 13.8835mm
+    PA1, Signal Layers Only, 66.618mm
+    PA10, Signal Layers Only, 44.2838mm
+    PA13, Signal Layers Only, 13.3204mm
+    PA14, Signal Layers Only, 2.7763mm
+    PA2, Signal Layers Only, 59.4895mm
+    PA4, Signal Layers Only, 30.8911mm
+    PA6, Signal Layers Only, 18.6196mm
+    PA7, Signal Layers Only, 73.3244mm
+    PA9, Signal Layers Only, 39.2799mm
+    PB11, Signal Layers Only, 25.9989mm
+    PB12, Signal Layers Only, 20.0244mm
+    PB13, Signal Layers Only, 23.0332mm
+    PB6, Signal Layers Only, 15.0132mm
+    PB7, Signal Layers Only, 12.3485mm
+    PB8, Signal Layers Only, 17.1843mm
+    PB9, Signal Layers Only, 14.2653mm
+    PC1, Signal Layers Only, 62.8423mm
+    PC13, Signal Layers Only, 31.4668mm
+    PC4, Signal Layers Only, 30.755mm
+    PC5, Signal Layers Only, 26.2629mm
+    PC6, Signal Layers Only, 17.6367mm
+    PC7, Signal Layers Only, 10.8883mm
+    PD3, Signal Layers Only, 56.0372mm
+    PE0, Signal Layers Only, 20.0965mm
+    PE1, Signal Layers Only, 14.8852mm
+    PE4, Signal Layers Only, 13.4347mm
+    PE5, Signal Layers Only, 13.7698mm
+    PE6, Signal Layers Only, 13.414mm
+count : 73

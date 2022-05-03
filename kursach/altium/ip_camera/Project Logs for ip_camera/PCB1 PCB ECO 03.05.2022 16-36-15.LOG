@@ -1,0 +1,6 @@
+Added Component: Designator=GB1(Battery)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC23_1 Pin=GB1-1
+Added Pin To Net: NetName=GND Pin=GB1-2
+Added Member To Class: ClassName=Sheet1 Member=Component GB1 
+Added Room: Name=Sheet1
