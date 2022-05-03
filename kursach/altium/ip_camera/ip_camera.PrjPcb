@@ -310,14 +310,18 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=..\..\..\..\..\AltiumLL\SamacSys.cmp
+DocumentPath=Project Outputs for ip_camera\Net Status - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Документация\ГУИР.467319.045.pdf
+DocumentPath=..\..\..\..\..\AltiumLL\SamacSys.cmp
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Документация\ГУИР.467319.045.pdf
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Документация\ГУИР.467469.045.pdf
 DItemRevisionGUID=
 
