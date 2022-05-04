@@ -325,6 +325,10 @@ DItemRevisionGUID=
 DocumentPath=Документация\ГУИР.467469.045.pdf
 DItemRevisionGUID=
 
+[GeneratedDocument5]
+DocumentPath=Документация\ГУИР.758723.045.pdf
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Папка для сохранения графической документации
 Value=Документация
@@ -344,7 +348,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_SmartPDF]
-AutoOpenFile=-1
+AutoOpenFile=0
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
